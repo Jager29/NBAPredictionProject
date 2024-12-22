@@ -23,3 +23,4 @@ st.dataframe(df_away)  # Mostrar tabla en Streamlit
 
 # Cierra la conexión a la base de datos
 conn.close()
+#es un comentaro para el cmomit
